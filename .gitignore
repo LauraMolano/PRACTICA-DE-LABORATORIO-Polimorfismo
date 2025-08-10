@@ -1,0 +1,62 @@
+# =========================
+#  Java - Common files
+# =========================
+
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ project files
+*.ctxt
+
+# Temporary files created by Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Packaged files (Java EE, distributions, etc.)
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+# =========================
+#  Maven
+# =========================
+
+# Maven build output directory
+/target/
+
+# =========================
+#  NetBeans
+# =========================
+
+# User-specific project configuration
+nbproject/private/
+
+# Temporary build directories
+/build/
+nbbuild/
+dist/
+nbdist/
+
+# Internal Gradle configuration used by NetBeans
+.nb-gradle/
+
+# =========================
+#  Temporary & system files
+# =========================
+
+# Generic temporary files
+*.tmp
+
+# Hidden system files from macOS and Windows
+.DS_Store
+Thumbs.db
